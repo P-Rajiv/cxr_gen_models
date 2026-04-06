@@ -1,0 +1,13 @@
+disease,file_name,num_prompts,path
+Atelectasis,atelectasis.txt,151,diseasewise_prompts/atelectasis.txt
+Cardiomegaly,cardiomegaly.txt,151,diseasewise_prompts/cardiomegaly.txt
+Consolidation,consolidation.txt,151,diseasewise_prompts/consolidation.txt
+Edema,edema.txt,151,diseasewise_prompts/edema.txt
+Enlarged Cardiomediastinum,enlarged_cardiomediastinum.txt,151,diseasewise_prompts/enlarged_cardiomediastinum.txt
+Fracture,fracture.txt,151,diseasewise_prompts/fracture.txt
+Lung Lesion,lung_lesion.txt,151,diseasewise_prompts/lung_lesion.txt
+Lung Opacity,lung_opacity.txt,151,diseasewise_prompts/lung_opacity.txt
+Pleural Effusion,pleural_effusion.txt,151,diseasewise_prompts/pleural_effusion.txt
+Pleural Other,pleural_other.txt,151,diseasewise_prompts/pleural_other.txt
+Pneumonia,pneumonia.txt,151,diseasewise_prompts/pneumonia.txt
+Pneumothorax,pneumothorax.txt,151,diseasewise_prompts/pneumothorax.txt

@@ -1,0 +1,13 @@
+disease,available_clean_candidates,selected_count
+Atelectasis,3138,151
+Cardiomegaly,3405,151
+Consolidation,207,151
+Edema,1914,151
+Enlarged Cardiomediastinum,337,151
+Fracture,944,151
+Lung Lesion,784,151
+Lung Opacity,2434,151
+Pleural Effusion,2764,151
+Pleural Other,151,151
+Pneumonia,1882,151
+Pneumothorax,1173,151
